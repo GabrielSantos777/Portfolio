@@ -3,11 +3,8 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://gabrielsantos777.github.io/Portfolio/",
   "scripts": {
-    "dev": "webpack -w",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "dev": "webpack -w"
   },
   "keywords": [],
   "author": "",
